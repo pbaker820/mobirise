@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-03_1815",
+    "name": "Paid to trade-09-03_1815",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -23,6 +23,8 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
     "versionFirst": "4.6.6",
     "uniqCompNum": 2,
     "versionPublish": "4.6.6"
